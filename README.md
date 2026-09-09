@@ -12,7 +12,7 @@ I'm interested in data science, data engineering, analytics, machine learning, a
 Python, SQL, R, C++
 
 **Data & Analytics:**  
-Pandas, NumPy, PySpark, Power BI, Tableau, Microsoft Fabric
+Pandas, NumPy, PySpark, Power BI, Microsoft Fabric
 
 **Machine Learning & Statistics:**  
 Scikit-learn, Statsmodels, XGBoost, Statistical Modeling, Predictive Modeling
@@ -55,7 +55,7 @@ Machine learning project predicting NFL EDGE draft outcomes using college perfor
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/purvisjosh](https://www.linkedin.com/)
+- **LinkedIn:** [linkedin.com/in/purvisjosh](https://www.linkedin.com/in/purvisjosh)
 - **GitHub:** [github.com/joshp31](https://github.com/joshp31)
 
 ---
