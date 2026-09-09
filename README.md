@@ -56,7 +56,7 @@ Machine learning project predicting NFL EDGE draft outcomes using college perfor
 ## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/purvisjosh](https://www.linkedin.com/)
-- **GitHub:** [github.com/joshp31(https://github.com/)
+- **GitHub:** [github.com/joshp31](https://github.com/joshp31)
 
 ---
 
