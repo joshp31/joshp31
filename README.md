@@ -27,7 +27,7 @@ Git, GitHub, Jupyter, VS Code
 
 ## Featured Projects
 
-### [MLB Home Run Derby Prediction](#)
+### [MLB Home Run Derby Prediction](https://github.com/joshp31/HR-Derby-Prediction)
 
 Machine learning project predicting how far MLB Home Run Derby participants will advance.
 
@@ -40,7 +40,7 @@ Machine learning project predicting how far MLB Home Run Derby participants will
 
 ---
 
-### [NFL EDGE Draft Prediction](#)
+### [NFL EDGE Draft Prediction](https://github.com/joshp31/NFL-EDGE-Draft-Prediction)
 
 Machine learning project predicting NFL EDGE draft outcomes using college performance and prospect metrics.
 
@@ -53,7 +53,7 @@ Machine learning project predicting NFL EDGE draft outcomes using college perfor
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/purvisjosh](https://www.linkedin.com/)
 - **GitHub:** [github.com/joshp31(https://github.com/)
